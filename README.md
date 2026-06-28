@@ -1,2 +1,2 @@
-# My-frist-website
+# My-first-website
 
